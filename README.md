@@ -1,4 +1,4 @@
-Hi there 👋
+<h1 style="text-align: center">Hi there 👋</h1>
 - 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
 - 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
