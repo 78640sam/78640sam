@@ -33,3 +33,6 @@
   <img src="https://user-images.githubusercontent.com/77038661/126057320-5a351c96-ae79-425b-9237-a1026c8c1440.png" alt="mongoose" width="60" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=78640sam&show_icons=true&locale=en&layout=compact" alt="Shubham Mishra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=78640sam&show_icons=true&locale=en" alt="Shubham Mishra" /></p>
