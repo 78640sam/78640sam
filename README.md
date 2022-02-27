@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi there 👋</h1>
+<h1 style="text-align: center">Hi there i am Shubham Mishra👋</h1>
 - 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
 - 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
