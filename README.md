@@ -1,11 +1,11 @@
 <h1 style="text-align: center">Hi there👋</h1>
-- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
+- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka.
 
-- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
+- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing.
 
-- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
+- ⌨️ Programming: HTML, CSS, JavaScript, React, Redux, Mongoose.
 
-- 🖥️ Platforms: Windows
+- 🖥️ Platforms: Windows.
 
 - 🎧 When am not coding you can find me watching movies, listening to music, or Travelling to a new place. My favorite place is Ladakh.
 
